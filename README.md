@@ -3,12 +3,12 @@ Comparison of the prices of the NASDAQ 100 and the SP 500 stocks according to th
 
 Please read the README file before running the program.
 
-This program is doing the following:
-1.
-2.
-3.
-4.
-5.
+This program is doing the following for NASDAQ 100 and the SP 500 stocks seperately to compare the results:
+1. Get historical prices for the index, oil, gold and natural gas
+2. Get the stock information including ticker and sector via webscraping
+3. Get the prices for each stock and merge the dataframes to get one dataframe conatining all the information required
+4. Run a regression on the stock data set to see what drives stock prices
+5. Use machine learning algorythms for clustering the stocks in groups based on their dependencies
 6. Visualizes the results with pie charts for every industry showing the number stocks per group. 
 
 
