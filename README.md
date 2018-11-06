@@ -5,7 +5,7 @@ Please read the README file before running the program.
 
 This program is doing the following for NASDAQ 100 and the SP 500 stocks seperately to compare the results:
 1. Get historical prices for the index, oil, gold and natural gas
-2. Get the stock information including ticker and sector via webscraping
+2. Get the stock information including ticker and sector via webscraping and downloading a .csv file from a url
 3. Get the prices for each stock and merge the dataframes to get one dataframe conatining all the information required
 4. Run a regression on the stock data set to see what drives stock prices
 5. Use machine learning algorythms for clustering the stocks in groups based on their dependencies
