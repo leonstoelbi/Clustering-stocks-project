@@ -18,3 +18,7 @@ Before you run the program please consider the following before you run the prog
 
 To understand the single lines in the code please read through the comments. If you have questions, do not hesitate to contact leon.stoelben@student.unisg.ch or florian.balmer@student.unisg.ch
 
+Disclaimer:
+
+The program worked fine with Spyder and Python 3.6 on the 7th of November 2018. Running the code with other versions of Python or programs may cause errors. Further, the website links and the available data on these websites may have changed meanwhile. 
+
